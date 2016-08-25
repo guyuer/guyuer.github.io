@@ -1,4 +1,3 @@
-.bundle
+_site
 .sass-cache
-Gemfile.lock
-example/_site
+.jekyll-metadata
