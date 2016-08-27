@@ -1,6 +1,13 @@
+---
+layout: post
+title:  "1.关于GitHub Pages和Jekyll"
+date:   2016-08-25
+categories: jekyll update
+---
+
 # 关于GitHub Pages和Jekyll
 
-##### Jekyll
+### Jekyll
 * 主页：https://jekyllrb.com/
 * 托管地址：https://github.com/jekyll/jekyll
 
